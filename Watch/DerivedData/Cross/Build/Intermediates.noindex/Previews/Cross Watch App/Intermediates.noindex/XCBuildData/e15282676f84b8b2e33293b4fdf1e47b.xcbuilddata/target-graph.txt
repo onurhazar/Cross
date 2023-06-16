@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Cross Watch App in Cross, no dependencies
+Cross in Cross, depends on:
+Cross Watch App in Cross (explicit)

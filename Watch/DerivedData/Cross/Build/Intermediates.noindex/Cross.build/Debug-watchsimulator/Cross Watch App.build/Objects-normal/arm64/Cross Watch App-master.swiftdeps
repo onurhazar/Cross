@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "a6a238a3407604ed2edea80d18b5529e874246755df8a338bd2fe50463974498"
+build_start_time: [1686906938, 780756000]
+build_end_time: [1686906940, 145775000]
+inputs:
+  "/Users/onur.hazar/Projects/XamarinProjects/Cross/Watch/Cross Watch App/ContentView.swift": [1686906920, 332344922]
+  "/Users/onur.hazar/Projects/XamarinProjects/Cross/Watch/Cross Watch App/Counter.swift": [1686906907, 160239160]
+  "/Users/onur.hazar/Projects/XamarinProjects/Cross/Watch/Cross Watch App/CrossApp.swift": [1686905619, 265052507]
+  "/Users/onur.hazar/Projects/XamarinProjects/Cross/Watch/Cross Watch App/SessionDelegater.swift": [1686906923, 614749127]
